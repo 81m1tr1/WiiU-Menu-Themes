@@ -58,11 +58,11 @@ TITLEID:
 > - JPN:0005001010040000
 
 ## Themes Collection
-| Name | Type | WWP |
+| Name | Type | WWP [^1] |
 |:-|:-|:-|
 | Kurumi | Static | Yes |
 | Nsmbu | Animation | Yes |
 
-
+[^1]: WPP:  Wara Wara plaza, where the Mii's run around.
 ## Other Themes or need Help?
 [Discord Link](https://discord.gg/Q52AUxX6jz)
