@@ -1,5 +1,7 @@
 # Wii U Menu Themes
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/81m1tr1/WiiU-Menu-Themes/total?style=plastic&logo=wiiu&logoColor=%230000FF&logoSize=auto&color=black)
+![GitHub Release](https://img.shields.io/github/v/release/81m1tr1/WiiU-Menu-Themes?sort=semver&display_name=release&style=plastic&label=Latest&labelColor=red)
+
 ---
 Custom Wii U Themes which are tested on the Aroma custom Frimware on WiiU
 ## What you need before usage
