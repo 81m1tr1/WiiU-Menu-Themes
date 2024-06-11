@@ -61,10 +61,12 @@ TITLEID:
 > - JPN:0005001010040000
 
 ## Themes Collection
-| Name | Type | WWP [^1] |
-|:-|:-|:-|
-| Kurumi | Static | Yes |
-| Nsmbu | Animation | Yes |
+| Name | Type | WWP [^1] | Custom Music | Release |
+|:-|:-|:-|:-|:-|
+| Kurumi | Static | Yes | Yes | v.1.0.0 |
+| Nsmbu | Animation | Yes | Yes | v.1.0.0 |
+| Hatsune Miku | Animation | Yes | No | Soon |
+| Mario Maker | Unkown | Unkown | Unkown | Soon |
 
 [^1]: WPP:  Wara Wara plaza, where the Mii's run around.
 ## Other Themes or need Help?
