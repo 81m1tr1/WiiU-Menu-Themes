@@ -65,7 +65,7 @@ TITLEID:
 |:-|:-|:-|:-|:-|
 | Kurumi | Static | Yes | Yes | v.1.0.0 |
 | Nsmbu | Animation | Yes | Yes | v.1.0.0 |
-| Hatsune Miku | Animation | Yes | No | Soon |
+| Hatsune Miku | Animation | Yes | Yes | v.2.0.0 |
 | Mario Maker | Unkown | Unkown | Unkown | Soon |
 
 [^1]: WPP:  Wara Wara plaza, where the Mii's run around.
