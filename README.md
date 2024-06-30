@@ -67,6 +67,8 @@ TITLEID:
 | Nsmbu | Animation | Yes | Yes | v.1.0.0 |
 | Hatsune Miku | Animation | Yes | Yes | v.2.0.0 |
 | Mario Maker | Animation | No | Yes | v.3.0.0 |
+| Luigi's Mansion 2 HD | ??? | ??? | ??? | in making |
+| Luigi's Mansion 3 | ??? | ??? | ??? | in making |
 
 [^1]: WPP:  Wara Wara plaza, where the Mii's run around.
 ## Other Themes or need Help?
